@@ -1,3 +1,4 @@
+# Welcome to Sonic Pi v3.1
 # Arpeggio  Ambient
 
 in_thread do
@@ -62,8 +63,6 @@ in_thread do
     end
   end
 end
-
-in_
 
 in_thread do
   with_fx :reverb, mix: 0.2 do
